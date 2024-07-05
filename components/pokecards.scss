@@ -1,0 +1,18 @@
+.vista-generacion{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.pokeCard{
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 25px;
+  img{
+    width: 100%;
+    
+  }
+  h2{
+    text-align: center;
+  }
+}
